@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.exe
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.deps.json
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.json
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\Asus\Desktop\Conditions\Conditions\bin\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.dll
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.pdb
+C:\Users\Asus\Desktop\Conditions\Conditions\obj\Debug\netcoreapp3.1\Conditions.genruntimeconfig.cache
