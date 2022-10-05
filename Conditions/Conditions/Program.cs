@@ -128,6 +128,58 @@ namespace Conditions
             // }
 
             #endregion
+                
+                
+            #region Task 7
+            //7.Write a program with 4 different options. Below you’ll see what should happen if user will choose one of those options:
+            //Take a 3-digit number as input, and say if square of this number equals sum of all it’s digits to the power of 3.
+            //Take a 4-digit number and say if sum of first two digits equals sum of last 2 digits.
+            //Take a 3-digit number as input. Say if there any 2 similar digits in it.
+            //Take a float number. Say if first 3 digits after comma contains 0.
+
+            //Console.WriteLine("Please select option:");
+            //string opt=Console.ReadLine();
+            //if(opt=="a"){
+            //Console.Write("Enter 3 digit number: ");
+            //int num = Convert.ToInt32(Console.ReadLine());
+            //int temp = num;
+            //int powerSum=0;
+            //while(temp>0){
+            //int digit=temp%10;
+                 //temp=(temp-digit)/10;
+                 //powerSum+=(digit*digit*digit);
+                 //}
+                 //if(powerSum==num*num){
+                 //   Console.WriteLine("True");
+                 //}
+                 //else{
+                 //    Console.WriteLine("False");
+                 //}
+            //}
+            //else if(opt=="b"){
+                //Console.Write("Enter 4 digit number: ");
+                 //int num = Convert.ToInt32(Console.ReadLine());
+                 //int firstSum=0;
+                 //int lastSum=0;
+                 //int temp=num;
+                 //for(int i=0;i<4;i++){
+                 //int digit=temp%10;
+                 //temp=(temp-digit)/10;
+                 //if(i<2){
+                 //    lastSum+=digit;
+                 //}
+                 //else{
+                 //    firstSum+=digit;
+                 //}
+                 //}
+                 //if(lastSum==firstSum){
+                 //    Console.WriteLine("True");
+                 //}
+                 //else{
+                 //    Console.WriteLine("False");
+                 //}
+
+            #endregion
         }
     }
 }
