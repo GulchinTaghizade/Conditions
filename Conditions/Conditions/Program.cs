@@ -108,6 +108,26 @@ namespace Conditions
             //}
 
             #endregion
+                
+            #region Task 6
+            //6.User gives 3 numbers x, y, r. Find out if point with location (x,y) is inside the circle with radius r?
+            // Console.WriteLine("Please enter x:");
+            //int x=Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter y:");
+            //int y=Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter r:");
+            //int r=Convert.ToInt32(Console.ReadLine());
+            //if(((x*x+y*y)<r*r)){
+            //Console.WriteLine($"({x},{y}) is located inside of the circle with radius {r}");
+            //}
+            //else if(((x*x+y*y)==r*r)){
+            //Console.WriteLine($"({x},{y}) is located on  the circle with radius {r}");
+            //}
+            //else{
+            //Console.WriteLine($"({x},{y}) is located outside of the circle with radius {r}");
+            // }
+
+            #endregion
         }
     }
 }
