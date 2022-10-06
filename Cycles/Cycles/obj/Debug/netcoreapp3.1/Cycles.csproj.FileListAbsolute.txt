@@ -1,0 +1,14 @@
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles.deps.json
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles.runtimeconfig.json
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles.runtimeconfig.dev.json
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles.dll
+/Users/gulchinnl/Projects/Cycles/Cycles/bin/Debug/netcoreapp3.1/Cycles.pdb
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.csproj.AssemblyReference.cache
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.AssemblyInfoInputs.cache
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.AssemblyInfo.cs
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.csproj.CoreCompileInputs.cache
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.dll
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.pdb
+/Users/gulchinnl/Projects/Cycles/Cycles/obj/Debug/netcoreapp3.1/Cycles.genruntimeconfig.cache
