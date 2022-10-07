@@ -243,6 +243,86 @@ namespace Cycles
                 //oddSum = 0;
             //}
             #endregion
+                
+            #region Task12
+            //12.User gives 2 numbers. Find out if there are similar digits in those numbers.
+            //Console.WriteLine("Please enter number a");
+            //int a = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter number b");
+            //int b = Convert.ToInt32(Console.ReadLine());
+            //int temp1 = a;
+            //int temp2 = b;
+            //while (temp1 > 0)
+            //{
+            //    int digitOfA = temp1 % 10;
+            //    temp1 = (temp1 - digitOfA) / 10;
+
+            //    while (temp2> 0)
+            //    {
+            //        int digitOfB = temp2 % 10;
+            //        temp2 = (temp2 - digitOfB) / 10;
+            //        if (digitOfA==digitOfB)
+            //        {
+            //            Console.WriteLine(digitOfB);
+            //        }
+            //    }
+            //    temp2 = b;
+            //}
+
+            #endregion
+
+            #region Task13
+            //13.User gives a number n. Calculate:
+            //Console.WriteLine("Please enter number n");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //int sum = 0;
+            //for (int i = 1; i <=n; i++)
+            //{
+            //    sum = sum+(1 + (1 / i * i));
+            //}
+            //Console.WriteLine($"Sum={sum}");
+            #endregion
+
+            #region Task14
+            //14.User gives х, and positive n. Calculate:
+            //1)
+            //Console.WriteLine("Please enter number n");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter number x");
+            //int x = Convert.ToInt32(Console.ReadLine());
+            //float sum = 0;
+            //float denumerator = 1;
+            //for (int i = 0; i <= n; i++)
+            //{
+            //    denumerator *= (x + i);
+            //    sum = sum + (1 / (denumerator));
+            //}
+            //Console.WriteLine($"Sum={sum}");
+
+
+            //2)
+            //Console.WriteLine("Please enter number n");
+            //int n = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter number x");
+            //int x = Convert.ToInt32(Console.ReadLine());
+            //double sum =0;
+            //for (int i = 1; i <= n; i++)
+            //{
+            //    sum+=(Math.Pow(x,i)/ Factorial(i));
+            //}
+            //Console.WriteLine($"Sum={sum}");
+            
+
+            //static int Factorial(int n) {
+            //    int fact=1;
+            //    for (int i = 1; i <= n; i++)
+            //    {
+            //        fact = fact * i;
+            //    }
+            //    return fact;
+            //}
+           
+            #endregion
         }
     }
 }
