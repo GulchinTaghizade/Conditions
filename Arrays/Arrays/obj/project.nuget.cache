@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q/z5IImNzyv586uAfd7tT50yk7x9FadU/5RF8tl87C1lUKwu0EPuDXFV8yhEck3v2pwhTK9jaxtEuOwBWcTGzQ==",
+  "success": true,
+  "projectFilePath": "/Users/gulchinnl/Projects/Arrays/Arrays/Arrays.csproj",
+  "expectedPackageFiles": [
+    "/Users/gulchinnl/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gulchinnl/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.29/microsoft.netcore.app.host.osx-x64.3.1.29.nupkg.sha512",
+    "/Users/gulchinnl/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
