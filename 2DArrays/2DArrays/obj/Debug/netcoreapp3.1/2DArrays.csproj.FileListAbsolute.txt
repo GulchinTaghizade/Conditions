@@ -1,0 +1,14 @@
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.deps.json
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.json
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.runtimeconfig.dev.json
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.dll
+/Users/gulchinnl/Projects/2DArrays/2DArrays/bin/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csproj.AssemblyReference.cache
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfoInputs.cache
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.AssemblyInfo.cs
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.csproj.CoreCompileInputs.cache
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.dll
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.pdb
+/Users/gulchinnl/Projects/2DArrays/2DArrays/obj/Debug/netcoreapp3.1/2DArrays.genruntimeconfig.cache
