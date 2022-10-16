@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkScFqyOx68rt174lk6zaJqodM5I40ni/3Zj9eGHi+9yimBq0ywjlYCAi2rNiFVPX1b/7ryLwZDn54xo8sW7fw==",
+  "success": true,
+  "projectFilePath": "/Users/gulchinnl/Projects/List/CustomLinkedList/CustomLinkedList.csproj",
+  "expectedPackageFiles": [
+    "/Users/gulchinnl/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/gulchinnl/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
