@@ -8,6 +8,8 @@ namespace CustomLinkedList
 
         //link
         public Node<T> Next { get; internal set; }
+        public Node<T> Prev { get; internal set; }
+
 
         //constructor
         public Node(T data)
