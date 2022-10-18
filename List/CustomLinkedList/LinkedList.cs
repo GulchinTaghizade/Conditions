@@ -29,6 +29,7 @@ namespace CustomLinkedList
             else
             {
                 newNode.Next = this.First;
+                First.Prev= newNode;    
                 this.First = newNode;
             }
             Count++;
@@ -36,7 +37,7 @@ namespace CustomLinkedList
 
         public void AddLast(Node<T> newNode)
         {
-            if (this.First == null)
+            if (this.Last == null)
             {
                 //this means the linkedlist is empty
                 this.First = newNode;
@@ -45,6 +46,7 @@ namespace CustomLinkedList
             else
             {
                 this.Last.Next = newNode;
+                newNode.Prev = Last;    
                 Last = newNode;
             }
             Count++;
@@ -60,6 +62,26 @@ namespace CustomLinkedList
 
             First = First.Next;
             this.Count--;
+        }
+
+        public void PrintList()
+        {
+            Node<T> node= First;    
+            while (node != null)
+            {
+                Console.WriteLine(node.Data);
+                node= node.Next;
+            }
+        }
+
+        public Node<T> GetLastNode()
+        {
+            Node<T> node = First;
+            while (node!=null)
+            {
+                node= node.Next;
+            }
+            return node;
         }
     }
 }
