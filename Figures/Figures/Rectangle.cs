@@ -1,20 +1,25 @@
 ﻿using System;
 using System.Drawing;
+using System.Runtime.CompilerServices;
+using System.Security.Cryptography.X509Certificates;
 
 namespace FigureApp
 {
     public class Rectangle:Figure
     {
-        public double SideA { get; set; }
-        public double SideB { get; set; }
-
+        double SideA, SideB;
         public Rectangle(List<Point> points):base(points)
         {
+            
+            SideA = Points[0].CoordinateX - Points[1].CoordinateX;
+            SideB = Points[0].CoordinateY - Points[3].CoordinateY;
         }
+
         public override void FindArea()
         {
             this.Area= SideA * SideB;
         }
+        
 
         public override void FindPerimeter()
         {

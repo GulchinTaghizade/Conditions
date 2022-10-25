@@ -8,6 +8,13 @@ namespace FigureApp
         public double SideC;
         public Triangle(List<Point> points):base(points)
         {
+            SideA = Math.Sqrt((points[1].CoordinateX - points[0].CoordinateX) * (points[1].CoordinateX - points[0].CoordinateX) - 
+                (points[1].CoordinateY - points[0].CoordinateY) * (points[1].CoordinateY - points[0].CoordinateY));
+            SideB = Math.Sqrt((points[2].CoordinateX - points[1].CoordinateX) * (points[2].CoordinateX - points[1].CoordinateX) -
+              (points[2].CoordinateY - points[1].CoordinateY) * (points[2].CoordinateY - points[1].CoordinateY));
+            SideA = Math.Sqrt((points[2].CoordinateX - points[0].CoordinateX) * (points[2].CoordinateX - points[0].CoordinateX) -
+              (points[1].CoordinateY - points[0].CoordinateY) * (points[1].CoordinateY - points[0].CoordinateY));
+
         }
 
         public override void FindArea()
@@ -27,8 +34,12 @@ namespace FigureApp
 
         public override void MoveFigure(double x, double y)
         {
-            this.Center.CoordinateX = Center.CoordinateX + x;
-            this.Center.CoordinateY = Center.CoordinateX + y;
+            foreach (var point in Points)
+            {
+                point.CoordinateX += x;
+                point.CoordinateY += y;
+
+            }
         }
 
         public override void RotateFigure(double degree)

@@ -6,10 +6,11 @@ namespace FigureApp
 {
     public class Square:Figure
     {
-        public double Side { get; set; }
+        public double Side;
 
         public Square(List<Point> points) : base(points)
         {
+            this.Side = Points[0].CoordinateY - Points[1].CoordinateY;
         }
 
         public override void FindArea()
@@ -38,7 +39,6 @@ namespace FigureApp
                 p.CoordinateX = p.CoordinateX * Math.Cos(degree) - p.CoordinateY * Math.Sin(degree);
                 p.CoordinateY = p.CoordinateY * Math.Cos(degree) + p.CoordinateX * Math.Sin(degree);
             }
-
         }
 
         public override void ScaleFigure(double scale)
